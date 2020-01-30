@@ -1,2 +1,2 @@
 # Info
-This repo contains the source for application 'Hoekenwerk'.
+This repo contains the source for the 'Hoekenwerk' application.
